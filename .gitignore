@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment variables
+.env
+
+# Test files
+test_llm.py
+
+md_converter.py
